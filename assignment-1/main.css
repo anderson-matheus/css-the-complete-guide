@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif;
+}
+
+#assignment-instructions {
+    color: #719be6;
+    font-family: sans-serif;
+}
+
+code {
+    font-family: "Space Mono", monospace;
+    color: #f80e03;
+}
+
+.light-color {
+    color: #99c2f8;
+}
+
+li + li {
+    background-color: #000;
+    color: #fff;
+}
+
+ol > li {
+    background-color: #000;
+    color: #fff;
+}
