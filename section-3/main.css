@@ -64,10 +64,7 @@ body {
     color: #0e4f1f;
 }
 
-.main-nav__item a:hover {
-    color: #fff;
-}
-
+.main-nav__item a:hover,
 .main-nav__item a:active {
     color: #fff;
 }
